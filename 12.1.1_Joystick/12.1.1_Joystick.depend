@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/12.1.1_Joystick/Joystick.c
+	<wiringPi.h>
+	<pcf8591.h>
+	<stdio.h>
+	<softPwm.h>
+
