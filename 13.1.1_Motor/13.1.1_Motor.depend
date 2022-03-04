@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/13.1.1_Motor/Motor.c
+	<wiringPi.h>
+	<pcf8591.h>
+	<stdio.h>
+	<softPwm.h>
+	<math.h>
+	<stdlib.h>
+

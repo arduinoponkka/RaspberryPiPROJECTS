@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581920404 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/17.1.1_LightWater02/LightWater02.c
+	<wiringPi.h>
+	<stdio.h>
+	<wiringShift.h>
+
