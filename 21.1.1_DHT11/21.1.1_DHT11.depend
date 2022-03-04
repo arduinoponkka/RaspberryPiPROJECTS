@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/21.1.1_DHT11/DHT.cpp
+	"DHT.hpp"
+
+1581169201 /home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/21.1.1_DHT11/DHT.hpp
+	<wiringPi.h>
+	<stdio.h>
+	<stdint.h>
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/25.1.1_MPU6050/I2Cdev.cpp
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<linux/i2c-dev.h>
+	"I2Cdev.h"
+
+1581169201 /home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/25.1.1_MPU6050/I2Cdev.h
+
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/25.1.1_MPU6050/MPU6050.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<stdint.h>
+	"MPU6050.h"
+
+1581169201 /home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/25.1.1_MPU6050/MPU6050.h
+	"I2Cdev.h"
+
+1581949244 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/25.1.1_MPU6050/MPU6050RAW.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdint.h>
+	<unistd.h>
+	"I2Cdev.h"
+	"MPU6050.h"
+

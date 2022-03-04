@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/22.1.1_MatrixKeypad/Key.cpp
+	"Key.hpp"
+
+1581169201 /home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/22.1.1_MatrixKeypad/Key.hpp
+	<wiringPi.h>
+
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/22.1.1_MatrixKeypad/Keypad.cpp
+	"Keypad.hpp"
+
+1581169201 /home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/22.1.1_MatrixKeypad/Keypad.hpp
+	"Key.hpp"
+	<wiringPi.h>
+	<stdio.h>
+
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/22.1.1_MatrixKeypad/MatrixKeypad.cpp
+	"Keypad.hpp"
+	<stdio.h>
+

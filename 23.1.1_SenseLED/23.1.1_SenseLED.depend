@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/23.1.1_SenseLED/SenseLED.c
+	<wiringPi.h>
+	<stdio.h>
+

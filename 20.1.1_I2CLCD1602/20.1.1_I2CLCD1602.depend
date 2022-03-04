@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581936249 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/20.1.1_I2CLCD1602/I2CLCD1602.c
+	<stdlib.h>
+	<stdio.h>
+	<wiringPi.h>
+	<pcf8574.h>
+	<lcd.h>
+	<time.h>
+
