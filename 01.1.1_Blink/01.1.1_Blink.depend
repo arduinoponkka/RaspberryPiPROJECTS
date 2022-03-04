@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581760986 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/01.1.1_Blink/Blink.c
+	<wiringPi.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646382310 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/03.1.1_LightWater/LightWater.c
+	<wiringPi.h>
+	<stdio.h>
+

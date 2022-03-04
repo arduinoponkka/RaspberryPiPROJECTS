@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581169201 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/05.1.1_ColorfullLED/ColorfulLED.c
+	<wiringPi.h>
+	<softPwm.h>
+	<stdio.h>
+	<stdlib.h>
+

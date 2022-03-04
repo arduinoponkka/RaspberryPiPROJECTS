@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581779214 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/04.1.1_BreathingLED/BreathingLED.c
+	<wiringPi.h>
+	<stdio.h>
+	<softPwm.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646380503 source:/home/pi/Asiakirjat/CodeBlocksPi/Raspberry_Pi_4_B_Projects/02.2.1_TableLamp/TableLamp.c
+	<wiringPi.h>
+	<stdio.h>
+
